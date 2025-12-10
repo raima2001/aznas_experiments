@@ -1,6 +1,6 @@
 
 
-# **README.md — AZ-NAS Experiments (CIFAR-10 / CIFAR-100)**
+AZ-NAS Experiments (CIFAR-10 / CIFAR-100)**
 
 This repository contains three GPU-accelerated experiments for **AZ-NAS** (Architectural Zero-shot Neural Architecture Search) implemented using **PyTorch**.
 All scripts include two special modes:
